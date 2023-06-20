@@ -111,7 +111,10 @@ function getCharges() {
     return DEFAULT_BALANCE / 20;
 }
 async function getBalanceRedis(redisClient, key) {
+    let start = Date.now();
     const res = await util.promisify(redisClient.get).bind(redisClient).call(redisClient, key);
+    let timeTaken = Date.now() - start;
+    console.log("getBalanceRedis total time taken : " + timeTaken + " milliseconds");
     return parseInt(res || "0");
 }
 async function chargeRedis(redisClient, key, charges) {
@@ -131,11 +134,14 @@ async function getBalanceMemcached(key) {
 }
 async function chargeMemcached(key, charges) {
     return new Promise((resolve, reject) => {
+        let start = Date.now();
         memcachedClient.decr(key, charges, (err, result) => {
             if (err) {
                 reject(err);
             }
             else {
+                let timeTaken = Date.now() - start;
+                console.log("getBalanceMemcached total time taken : " + timeTaken + " milliseconds");
                 return resolve(Number(result));
             }
         });
