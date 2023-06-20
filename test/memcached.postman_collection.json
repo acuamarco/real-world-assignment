@@ -1,0 +1,65 @@
+{
+	"info": {
+		"_postman_id": "e9fcb3cd-d62a-4bb0-bc36-cc086022748d",
+		"name": "memcached",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "6253306"
+	},
+	"item": [
+		{
+			"name": "charge",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"serviceType\": \"voice\",\r\n  \"unit\": 2\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://zfzv9vpd27.execute-api.us-east-1.amazonaws.com/prod/charge-request-memcached",
+					"protocol": "https",
+					"host": [
+						"zfzv9vpd27",
+						"execute-api",
+						"us-east-1",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"prod",
+						"charge-request-memcached"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "reset",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://zfzv9vpd27.execute-api.us-east-1.amazonaws.com/prod/reset-memcached",
+					"protocol": "https",
+					"host": [
+						"zfzv9vpd27",
+						"execute-api",
+						"us-east-1",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"prod",
+						"reset-memcached"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
