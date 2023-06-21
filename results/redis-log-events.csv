@@ -1,0 +1,293 @@
+timestamp,message
+1687305098670,"INIT_START Runtime Version: nodejs:18.v7	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:26e9402591d9c467cdcc7355f843d61968f36ecb6e9ef5ab253cc21163343275
+"
+1687305098976,"START RequestId: b34cd638-d1e8-44db-a7bd-b3696f8ea596 Version: $LATEST
+"
+1687305099154,"2023-06-20T23:51:39.154Z	b34cd638-d1e8-44db-a7bd-b3696f8ea596	INFO	redis client ready
+"
+1687305099195,"2023-06-20T23:51:39.195Z	b34cd638-d1e8-44db-a7bd-b3696f8ea596	INFO	getBalanceRedis total time taken : 2 milliseconds
+"
+1687305099216,"2023-06-20T23:51:39.216Z	b34cd638-d1e8-44db-a7bd-b3696f8ea596	INFO	redis client disconnected
+"
+1687305099253,"END RequestId: b34cd638-d1e8-44db-a7bd-b3696f8ea596
+"
+1687305099253,"REPORT RequestId: b34cd638-d1e8-44db-a7bd-b3696f8ea596	Duration: 277.12 ms	Billed Duration: 278 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	Init Duration: 305.30 ms	
+"
+1687305099478,"START RequestId: bcfe3752-63cf-4864-9320-465c3a611f01 Version: $LATEST
+"
+1687305099493,"2023-06-20T23:51:39.493Z	bcfe3752-63cf-4864-9320-465c3a611f01	INFO	redis client ready
+"
+1687305099495,"2023-06-20T23:51:39.495Z	bcfe3752-63cf-4864-9320-465c3a611f01	INFO	getBalanceRedis total time taken : 2 milliseconds
+"
+1687305099515,"2023-06-20T23:51:39.515Z	bcfe3752-63cf-4864-9320-465c3a611f01	INFO	redis client disconnected
+"
+1687305099533,"END RequestId: bcfe3752-63cf-4864-9320-465c3a611f01
+"
+1687305099533,"REPORT RequestId: bcfe3752-63cf-4864-9320-465c3a611f01	Duration: 55.36 ms	Billed Duration: 56 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305099775,"START RequestId: ff0a5261-b98f-4da6-9183-f2403f6540dc Version: $LATEST
+"
+1687305099793,"2023-06-20T23:51:39.793Z	ff0a5261-b98f-4da6-9183-f2403f6540dc	INFO	redis client ready
+"
+1687305099795,"2023-06-20T23:51:39.795Z	ff0a5261-b98f-4da6-9183-f2403f6540dc	INFO	getBalanceRedis total time taken : 1 milliseconds
+"
+1687305099814,"2023-06-20T23:51:39.814Z	ff0a5261-b98f-4da6-9183-f2403f6540dc	INFO	redis client disconnected
+"
+1687305099815,"END RequestId: ff0a5261-b98f-4da6-9183-f2403f6540dc
+"
+1687305099815,"REPORT RequestId: ff0a5261-b98f-4da6-9183-f2403f6540dc	Duration: 40.19 ms	Billed Duration: 41 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305100056,"START RequestId: e084c9d2-a476-4b5c-9608-c8903e560474 Version: $LATEST
+"
+1687305100060,"2023-06-20T23:51:40.060Z	e084c9d2-a476-4b5c-9608-c8903e560474	INFO	redis client ready
+"
+1687305100074,"2023-06-20T23:51:40.074Z	e084c9d2-a476-4b5c-9608-c8903e560474	INFO	getBalanceRedis total time taken : 14 milliseconds
+"
+1687305100093,"2023-06-20T23:51:40.093Z	e084c9d2-a476-4b5c-9608-c8903e560474	INFO	redis client disconnected
+"
+1687305100094,"END RequestId: e084c9d2-a476-4b5c-9608-c8903e560474
+"
+1687305100094,"REPORT RequestId: e084c9d2-a476-4b5c-9608-c8903e560474	Duration: 38.28 ms	Billed Duration: 39 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305100335,"START RequestId: 09801d24-abdc-4746-b531-98a2e0430369 Version: $LATEST
+"
+1687305100340,"2023-06-20T23:51:40.340Z	09801d24-abdc-4746-b531-98a2e0430369	INFO	redis client ready
+"
+1687305100353,"2023-06-20T23:51:40.353Z	09801d24-abdc-4746-b531-98a2e0430369	INFO	getBalanceRedis total time taken : 13 milliseconds
+"
+1687305100355,"2023-06-20T23:51:40.355Z	09801d24-abdc-4746-b531-98a2e0430369	INFO	redis client disconnected
+"
+1687305100373,"END RequestId: 09801d24-abdc-4746-b531-98a2e0430369
+"
+1687305100373,"REPORT RequestId: 09801d24-abdc-4746-b531-98a2e0430369	Duration: 38.09 ms	Billed Duration: 39 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305100581,"START RequestId: 3cfaa05b-22f1-4b98-b9d2-11c373a2694d Version: $LATEST
+"
+1687305100585,"2023-06-20T23:51:40.585Z	3cfaa05b-22f1-4b98-b9d2-11c373a2694d	INFO	redis client ready
+"
+1687305100593,"2023-06-20T23:51:40.593Z	3cfaa05b-22f1-4b98-b9d2-11c373a2694d	INFO	getBalanceRedis total time taken : 7 milliseconds
+"
+1687305100595,"2023-06-20T23:51:40.595Z	3cfaa05b-22f1-4b98-b9d2-11c373a2694d	INFO	redis client disconnected
+"
+1687305100596,"END RequestId: 3cfaa05b-22f1-4b98-b9d2-11c373a2694d
+"
+1687305100596,"REPORT RequestId: 3cfaa05b-22f1-4b98-b9d2-11c373a2694d	Duration: 14.95 ms	Billed Duration: 15 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305100840,"START RequestId: 97d3f5fd-296d-4250-a705-4b209903dfd0 Version: $LATEST
+"
+1687305100844,"2023-06-20T23:51:40.844Z	97d3f5fd-296d-4250-a705-4b209903dfd0	INFO	redis client ready
+"
+1687305100854,"2023-06-20T23:51:40.854Z	97d3f5fd-296d-4250-a705-4b209903dfd0	INFO	getBalanceRedis total time taken : 9 milliseconds
+"
+1687305100856,"2023-06-20T23:51:40.856Z	97d3f5fd-296d-4250-a705-4b209903dfd0	INFO	redis client disconnected
+"
+1687305100873,"END RequestId: 97d3f5fd-296d-4250-a705-4b209903dfd0
+"
+1687305100873,"REPORT RequestId: 97d3f5fd-296d-4250-a705-4b209903dfd0	Duration: 33.07 ms	Billed Duration: 34 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305101058,"START RequestId: 9f77f8e1-906f-47c1-980d-975e4e88fac6 Version: $LATEST
+"
+1687305101062,"2023-06-20T23:51:41.062Z	9f77f8e1-906f-47c1-980d-975e4e88fac6	INFO	redis client ready
+"
+1687305101073,"2023-06-20T23:51:41.073Z	9f77f8e1-906f-47c1-980d-975e4e88fac6	INFO	getBalanceRedis total time taken : 11 milliseconds
+"
+1687305101075,"2023-06-20T23:51:41.075Z	9f77f8e1-906f-47c1-980d-975e4e88fac6	INFO	redis client disconnected
+"
+1687305101076,"END RequestId: 9f77f8e1-906f-47c1-980d-975e4e88fac6
+"
+1687305101076,"REPORT RequestId: 9f77f8e1-906f-47c1-980d-975e4e88fac6	Duration: 18.42 ms	Billed Duration: 19 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305101323,"START RequestId: 99444c5f-d2c7-46ae-baab-dc5e5663081a Version: $LATEST
+"
+1687305101327,"2023-06-20T23:51:41.327Z	99444c5f-d2c7-46ae-baab-dc5e5663081a	INFO	redis client ready
+"
+1687305101333,"2023-06-20T23:51:41.333Z	99444c5f-d2c7-46ae-baab-dc5e5663081a	INFO	getBalanceRedis total time taken : 5 milliseconds
+"
+1687305101335,"2023-06-20T23:51:41.335Z	99444c5f-d2c7-46ae-baab-dc5e5663081a	INFO	redis client disconnected
+"
+1687305101353,"END RequestId: 99444c5f-d2c7-46ae-baab-dc5e5663081a
+"
+1687305101353,"REPORT RequestId: 99444c5f-d2c7-46ae-baab-dc5e5663081a	Duration: 30.29 ms	Billed Duration: 31 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305101480,"START RequestId: c210dbfe-2c8e-48ef-ae84-613f6c0efe33 Version: $LATEST
+"
+1687305101484,"2023-06-20T23:51:41.484Z	c210dbfe-2c8e-48ef-ae84-613f6c0efe33	INFO	redis client ready
+"
+1687305101493,"2023-06-20T23:51:41.493Z	c210dbfe-2c8e-48ef-ae84-613f6c0efe33	INFO	getBalanceRedis total time taken : 9 milliseconds
+"
+1687305101495,"2023-06-20T23:51:41.495Z	c210dbfe-2c8e-48ef-ae84-613f6c0efe33	INFO	redis client disconnected
+"
+1687305101513,"END RequestId: c210dbfe-2c8e-48ef-ae84-613f6c0efe33
+"
+1687305101513,"REPORT RequestId: c210dbfe-2c8e-48ef-ae84-613f6c0efe33	Duration: 33.57 ms	Billed Duration: 34 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305101746,"START RequestId: 9eed8be5-f767-4e1b-9457-866e503d3f9b Version: $LATEST
+"
+1687305101750,"2023-06-20T23:51:41.750Z	9eed8be5-f767-4e1b-9457-866e503d3f9b	INFO	redis client ready
+"
+1687305101751,"2023-06-20T23:51:41.751Z	9eed8be5-f767-4e1b-9457-866e503d3f9b	INFO	getBalanceRedis total time taken : 1 milliseconds
+"
+1687305101754,"2023-06-20T23:51:41.754Z	9eed8be5-f767-4e1b-9457-866e503d3f9b	INFO	redis client disconnected
+"
+1687305101755,"END RequestId: 9eed8be5-f767-4e1b-9457-866e503d3f9b
+"
+1687305101755,"REPORT RequestId: 9eed8be5-f767-4e1b-9457-866e503d3f9b	Duration: 8.49 ms	Billed Duration: 9 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305102012,"START RequestId: 356421ff-fb76-4e1e-8d5c-46181648d07b Version: $LATEST
+"
+1687305102016,"2023-06-20T23:51:42.016Z	356421ff-fb76-4e1e-8d5c-46181648d07b	INFO	redis client ready
+"
+1687305102018,"2023-06-20T23:51:42.018Z	356421ff-fb76-4e1e-8d5c-46181648d07b	INFO	getBalanceRedis total time taken : 2 milliseconds
+"
+1687305102021,"2023-06-20T23:51:42.021Z	356421ff-fb76-4e1e-8d5c-46181648d07b	INFO	redis client disconnected
+"
+1687305102034,"END RequestId: 356421ff-fb76-4e1e-8d5c-46181648d07b
+"
+1687305102034,"REPORT RequestId: 356421ff-fb76-4e1e-8d5c-46181648d07b	Duration: 21.72 ms	Billed Duration: 22 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305102293,"START RequestId: ea573cd8-b8d6-4705-a633-fb969cf9224b Version: $LATEST
+"
+1687305102317,"2023-06-20T23:51:42.317Z	ea573cd8-b8d6-4705-a633-fb969cf9224b	INFO	redis client ready
+"
+1687305102318,"2023-06-20T23:51:42.318Z	ea573cd8-b8d6-4705-a633-fb969cf9224b	INFO	getBalanceRedis total time taken : 1 milliseconds
+"
+1687305102320,"2023-06-20T23:51:42.320Z	ea573cd8-b8d6-4705-a633-fb969cf9224b	INFO	redis client disconnected
+"
+1687305102334,"END RequestId: ea573cd8-b8d6-4705-a633-fb969cf9224b
+"
+1687305102334,"REPORT RequestId: ea573cd8-b8d6-4705-a633-fb969cf9224b	Duration: 57.79 ms	Billed Duration: 58 ms	Memory Size: 128 MB	Max Memory Used: 88 MB	
+"
+1687305102575,"START RequestId: 61d96ae3-a1ca-4691-9617-a77121781503 Version: $LATEST
+"
+1687305102579,"2023-06-20T23:51:42.579Z	61d96ae3-a1ca-4691-9617-a77121781503	INFO	redis client ready
+"
+1687305102593,"2023-06-20T23:51:42.593Z	61d96ae3-a1ca-4691-9617-a77121781503	INFO	getBalanceRedis total time taken : 13 milliseconds
+"
+1687305102596,"2023-06-20T23:51:42.596Z	61d96ae3-a1ca-4691-9617-a77121781503	INFO	redis client disconnected
+"
+1687305102614,"END RequestId: 61d96ae3-a1ca-4691-9617-a77121781503
+"
+1687305102614,"REPORT RequestId: 61d96ae3-a1ca-4691-9617-a77121781503	Duration: 38.44 ms	Billed Duration: 39 ms	Memory Size: 128 MB	Max Memory Used: 88 MB	
+"
+1687305102840,"START RequestId: 8be1ed1d-617a-4e03-832b-e15b05cc9a94 Version: $LATEST
+"
+1687305102844,"2023-06-20T23:51:42.844Z	8be1ed1d-617a-4e03-832b-e15b05cc9a94	INFO	redis client ready
+"
+1687305102853,"2023-06-20T23:51:42.853Z	8be1ed1d-617a-4e03-832b-e15b05cc9a94	INFO	getBalanceRedis total time taken : 9 milliseconds
+"
+1687305102855,"2023-06-20T23:51:42.855Z	8be1ed1d-617a-4e03-832b-e15b05cc9a94	INFO	redis client disconnected
+"
+1687305102856,"END RequestId: 8be1ed1d-617a-4e03-832b-e15b05cc9a94
+"
+1687305102856,"REPORT RequestId: 8be1ed1d-617a-4e03-832b-e15b05cc9a94	Duration: 16.50 ms	Billed Duration: 17 ms	Memory Size: 128 MB	Max Memory Used: 88 MB	
+"
+1687305103020,"START RequestId: 487d73ea-ec61-4703-9e30-a85fa0c4675e Version: $LATEST
+"
+1687305103024,"2023-06-20T23:51:43.024Z	487d73ea-ec61-4703-9e30-a85fa0c4675e	INFO	redis client ready
+"
+1687305103033,"2023-06-20T23:51:43.033Z	487d73ea-ec61-4703-9e30-a85fa0c4675e	INFO	getBalanceRedis total time taken : 9 milliseconds
+"
+1687305103035,"2023-06-20T23:51:43.035Z	487d73ea-ec61-4703-9e30-a85fa0c4675e	INFO	redis client disconnected
+"
+1687305103036,"END RequestId: 487d73ea-ec61-4703-9e30-a85fa0c4675e
+"
+1687305103037,"REPORT RequestId: 487d73ea-ec61-4703-9e30-a85fa0c4675e	Duration: 16.31 ms	Billed Duration: 17 ms	Memory Size: 128 MB	Max Memory Used: 88 MB	
+"
+1687305103269,"START RequestId: a9b25d4e-aa14-4a00-a050-d0c1f33e336e Version: $LATEST
+"
+1687305103273,"2023-06-20T23:51:43.273Z	a9b25d4e-aa14-4a00-a050-d0c1f33e336e	INFO	redis client ready
+"
+1687305103274,"2023-06-20T23:51:43.274Z	a9b25d4e-aa14-4a00-a050-d0c1f33e336e	INFO	getBalanceRedis total time taken : 1 milliseconds
+"
+1687305103276,"2023-06-20T23:51:43.276Z	a9b25d4e-aa14-4a00-a050-d0c1f33e336e	INFO	redis client disconnected
+"
+1687305103277,"END RequestId: a9b25d4e-aa14-4a00-a050-d0c1f33e336e
+"
+1687305103277,"REPORT RequestId: a9b25d4e-aa14-4a00-a050-d0c1f33e336e	Duration: 8.65 ms	Billed Duration: 9 ms	Memory Size: 128 MB	Max Memory Used: 88 MB	
+"
+1687305103543,"START RequestId: b93dcf4a-3a8a-48c4-af84-6132c258a677 Version: $LATEST
+"
+1687305103553,"2023-06-20T23:51:43.553Z	b93dcf4a-3a8a-48c4-af84-6132c258a677	INFO	redis client ready
+"
+1687305103555,"2023-06-20T23:51:43.555Z	b93dcf4a-3a8a-48c4-af84-6132c258a677	INFO	getBalanceRedis total time taken : 1 milliseconds
+"
+1687305103557,"2023-06-20T23:51:43.557Z	b93dcf4a-3a8a-48c4-af84-6132c258a677	INFO	redis client disconnected
+"
+1687305103574,"END RequestId: b93dcf4a-3a8a-48c4-af84-6132c258a677
+"
+1687305103574,"REPORT RequestId: b93dcf4a-3a8a-48c4-af84-6132c258a677	Duration: 30.46 ms	Billed Duration: 31 ms	Memory Size: 128 MB	Max Memory Used: 88 MB	
+"
+1687305103791,"START RequestId: 13eebc9c-8fa5-44b0-80c6-89fb6c74013d Version: $LATEST
+"
+1687305103795,"2023-06-20T23:51:43.795Z	13eebc9c-8fa5-44b0-80c6-89fb6c74013d	INFO	redis client ready
+"
+1687305103797,"2023-06-20T23:51:43.797Z	13eebc9c-8fa5-44b0-80c6-89fb6c74013d	INFO	getBalanceRedis total time taken : 1 milliseconds
+"
+1687305103799,"2023-06-20T23:51:43.799Z	13eebc9c-8fa5-44b0-80c6-89fb6c74013d	INFO	redis client disconnected
+"
+1687305103814,"END RequestId: 13eebc9c-8fa5-44b0-80c6-89fb6c74013d
+"
+1687305103814,"REPORT RequestId: 13eebc9c-8fa5-44b0-80c6-89fb6c74013d	Duration: 22.76 ms	Billed Duration: 23 ms	Memory Size: 128 MB	Max Memory Used: 88 MB	
+"
+1687305103976,"START RequestId: 85f4a7e2-65d7-4dd0-b78f-940e4ac4f469 Version: $LATEST
+"
+1687305103980,"2023-06-20T23:51:43.980Z	85f4a7e2-65d7-4dd0-b78f-940e4ac4f469	INFO	redis client ready
+"
+1687305103993,"2023-06-20T23:51:43.993Z	85f4a7e2-65d7-4dd0-b78f-940e4ac4f469	INFO	getBalanceRedis total time taken : 13 milliseconds
+"
+1687305103996,"2023-06-20T23:51:43.996Z	85f4a7e2-65d7-4dd0-b78f-940e4ac4f469	INFO	redis client disconnected
+"
+1687305103997,"END RequestId: 85f4a7e2-65d7-4dd0-b78f-940e4ac4f469
+"
+1687305103997,"REPORT RequestId: 85f4a7e2-65d7-4dd0-b78f-940e4ac4f469	Duration: 20.93 ms	Billed Duration: 21 ms	Memory Size: 128 MB	Max Memory Used: 88 MB	
+"
+1687305104232,"START RequestId: a9d9c50a-52c9-4fa6-8e57-104d4c7ef3f3 Version: $LATEST
+"
+1687305104236,"2023-06-20T23:51:44.236Z	a9d9c50a-52c9-4fa6-8e57-104d4c7ef3f3	INFO	redis client ready
+"
+1687305104237,"2023-06-20T23:51:44.237Z	a9d9c50a-52c9-4fa6-8e57-104d4c7ef3f3	INFO	getBalanceRedis total time taken : 1 milliseconds
+"
+1687305104238,"END RequestId: a9d9c50a-52c9-4fa6-8e57-104d4c7ef3f3
+"
+1687305104238,"REPORT RequestId: a9d9c50a-52c9-4fa6-8e57-104d4c7ef3f3	Duration: 5.93 ms	Billed Duration: 6 ms	Memory Size: 128 MB	Max Memory Used: 88 MB	
+"
+1687305104512,"START RequestId: 579e9316-6b81-45d1-9298-b1d1409f11e4 Version: $LATEST
+"
+1687305104516,"2023-06-20T23:51:44.516Z	579e9316-6b81-45d1-9298-b1d1409f11e4	INFO	redis client ready
+"
+1687305104518,"2023-06-20T23:51:44.518Z	579e9316-6b81-45d1-9298-b1d1409f11e4	INFO	getBalanceRedis total time taken : 1 milliseconds
+"
+1687305104519,"END RequestId: 579e9316-6b81-45d1-9298-b1d1409f11e4
+"
+1687305104519,"REPORT RequestId: 579e9316-6b81-45d1-9298-b1d1409f11e4	Duration: 6.37 ms	Billed Duration: 7 ms	Memory Size: 128 MB	Max Memory Used: 88 MB	
+"
+1687305104693,"START RequestId: b05b11d8-f59e-4e4c-8f55-3bdb17bea617 Version: $LATEST
+"
+1687305104713,"2023-06-20T23:51:44.713Z	b05b11d8-f59e-4e4c-8f55-3bdb17bea617	INFO	redis client ready
+"
+1687305104715,"2023-06-20T23:51:44.715Z	b05b11d8-f59e-4e4c-8f55-3bdb17bea617	INFO	getBalanceRedis total time taken : 1 milliseconds
+"
+1687305104716,"END RequestId: b05b11d8-f59e-4e4c-8f55-3bdb17bea617
+"
+1687305104716,"REPORT RequestId: b05b11d8-f59e-4e4c-8f55-3bdb17bea617	Duration: 22.84 ms	Billed Duration: 23 ms	Memory Size: 128 MB	Max Memory Used: 88 MB	
+"
+1687305104882,"START RequestId: 62a0aa62-b7db-4b7b-9823-c22c5819374b Version: $LATEST
+"
+1687305104886,"2023-06-20T23:51:44.886Z	62a0aa62-b7db-4b7b-9823-c22c5819374b	INFO	redis client ready
+"
+1687305104893,"2023-06-20T23:51:44.893Z	62a0aa62-b7db-4b7b-9823-c22c5819374b	INFO	getBalanceRedis total time taken : 7 milliseconds
+"
+1687305104894,"END RequestId: 62a0aa62-b7db-4b7b-9823-c22c5819374b
+"
+1687305104894,"REPORT RequestId: 62a0aa62-b7db-4b7b-9823-c22c5819374b	Duration: 12.21 ms	Billed Duration: 13 ms	Memory Size: 128 MB	Max Memory Used: 88 MB	
+"
+1687305105068,"START RequestId: e9e2fd1a-8f3d-4a44-9515-406cc5ac84ad Version: $LATEST
+"
+1687305105073,"2023-06-20T23:51:45.073Z	e9e2fd1a-8f3d-4a44-9515-406cc5ac84ad	INFO	redis client ready
+"
+1687305105074,"2023-06-20T23:51:45.074Z	e9e2fd1a-8f3d-4a44-9515-406cc5ac84ad	INFO	getBalanceRedis total time taken : 1 milliseconds
+"
+1687305105075,"END RequestId: e9e2fd1a-8f3d-4a44-9515-406cc5ac84ad
+"
+1687305105075,"REPORT RequestId: e9e2fd1a-8f3d-4a44-9515-406cc5ac84ad	Duration: 6.90 ms	Billed Duration: 7 ms	Memory Size: 128 MB	Max Memory Used: 88 MB	
+"

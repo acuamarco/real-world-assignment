@@ -1,0 +1,203 @@
+timestamp,message
+1687305847191,"INIT_START Runtime Version: nodejs:18.v7	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:26e9402591d9c467cdcc7355f843d61968f36ecb6e9ef5ab253cc21163343275
+"
+1687305847463,"START RequestId: 2772946e-6abc-4fd5-b04f-f279ebb73467 Version: $LATEST
+"
+1687305847655,"2023-06-21T00:04:07.655Z	2772946e-6abc-4fd5-b04f-f279ebb73467	INFO	getBalanceMemcached total time taken : 142 milliseconds
+"
+1687305847716,"END RequestId: 2772946e-6abc-4fd5-b04f-f279ebb73467
+"
+1687305847716,"REPORT RequestId: 2772946e-6abc-4fd5-b04f-f279ebb73467	Duration: 253.33 ms	Billed Duration: 254 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	Init Duration: 270.71 ms	
+"
+1687305847954,"START RequestId: 4a97af75-879b-4df0-9928-54837d3dd490 Version: $LATEST
+"
+1687305847956,"2023-06-21T00:04:07.956Z	4a97af75-879b-4df0-9928-54837d3dd490	INFO	getBalanceMemcached total time taken : 2 milliseconds
+"
+1687305847975,"END RequestId: 4a97af75-879b-4df0-9928-54837d3dd490
+"
+1687305847975,"REPORT RequestId: 4a97af75-879b-4df0-9928-54837d3dd490	Duration: 20.70 ms	Billed Duration: 21 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305848191,"START RequestId: 35c703f2-17ef-4b63-a3a8-c69ca2562373 Version: $LATEST
+"
+1687305848193,"2023-06-21T00:04:08.193Z	35c703f2-17ef-4b63-a3a8-c69ca2562373	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305848195,"END RequestId: 35c703f2-17ef-4b63-a3a8-c69ca2562373
+"
+1687305848195,"REPORT RequestId: 35c703f2-17ef-4b63-a3a8-c69ca2562373	Duration: 4.08 ms	Billed Duration: 5 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305848372,"START RequestId: 274558fc-4174-4ef6-b021-0641f4ce053a Version: $LATEST
+"
+1687305848373,"2023-06-21T00:04:08.373Z	274558fc-4174-4ef6-b021-0641f4ce053a	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305848376,"END RequestId: 274558fc-4174-4ef6-b021-0641f4ce053a
+"
+1687305848376,"REPORT RequestId: 274558fc-4174-4ef6-b021-0641f4ce053a	Duration: 3.76 ms	Billed Duration: 4 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305848557,"START RequestId: 94667af9-a108-4230-b716-469cf2d8a9cb Version: $LATEST
+"
+1687305848559,"2023-06-21T00:04:08.559Z	94667af9-a108-4230-b716-469cf2d8a9cb	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305848575,"END RequestId: 94667af9-a108-4230-b716-469cf2d8a9cb
+"
+1687305848575,"REPORT RequestId: 94667af9-a108-4230-b716-469cf2d8a9cb	Duration: 17.45 ms	Billed Duration: 18 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305848756,"START RequestId: f133e079-b866-43f5-98ba-0a993e7c1648 Version: $LATEST
+"
+1687305848758,"2023-06-21T00:04:08.758Z	f133e079-b866-43f5-98ba-0a993e7c1648	INFO	getBalanceMemcached total time taken : 2 milliseconds
+"
+1687305848760,"END RequestId: f133e079-b866-43f5-98ba-0a993e7c1648
+"
+1687305848760,"REPORT RequestId: f133e079-b866-43f5-98ba-0a993e7c1648	Duration: 4.10 ms	Billed Duration: 5 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305848932,"START RequestId: 3d1789c9-38d7-42be-bd24-1d66f49fa23e Version: $LATEST
+"
+1687305848934,"2023-06-21T00:04:08.934Z	3d1789c9-38d7-42be-bd24-1d66f49fa23e	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305848936,"END RequestId: 3d1789c9-38d7-42be-bd24-1d66f49fa23e
+"
+1687305848936,"REPORT RequestId: 3d1789c9-38d7-42be-bd24-1d66f49fa23e	Duration: 3.93 ms	Billed Duration: 4 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305849168,"START RequestId: 336d60e5-0feb-4a60-9900-dac9aa309d89 Version: $LATEST
+"
+1687305849170,"2023-06-21T00:04:09.170Z	336d60e5-0feb-4a60-9900-dac9aa309d89	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305849174,"END RequestId: 336d60e5-0feb-4a60-9900-dac9aa309d89
+"
+1687305849174,"REPORT RequestId: 336d60e5-0feb-4a60-9900-dac9aa309d89	Duration: 5.52 ms	Billed Duration: 6 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305849380,"START RequestId: a5626936-8ea5-4758-8a96-bcddda90b3fe Version: $LATEST
+"
+1687305849382,"2023-06-21T00:04:09.382Z	a5626936-8ea5-4758-8a96-bcddda90b3fe	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305849384,"END RequestId: a5626936-8ea5-4758-8a96-bcddda90b3fe
+"
+1687305849384,"REPORT RequestId: a5626936-8ea5-4758-8a96-bcddda90b3fe	Duration: 3.98 ms	Billed Duration: 4 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305849626,"START RequestId: 1b17a564-9394-43c4-9cc4-402df6e79174 Version: $LATEST
+"
+1687305849627,"2023-06-21T00:04:09.627Z	1b17a564-9394-43c4-9cc4-402df6e79174	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305849629,"END RequestId: 1b17a564-9394-43c4-9cc4-402df6e79174
+"
+1687305849629,"REPORT RequestId: 1b17a564-9394-43c4-9cc4-402df6e79174	Duration: 3.44 ms	Billed Duration: 4 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305849872,"START RequestId: 5eb4bef2-173c-433a-91d8-65b1c2466128 Version: $LATEST
+"
+1687305849873,"2023-06-21T00:04:09.873Z	5eb4bef2-173c-433a-91d8-65b1c2466128	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305849875,"END RequestId: 5eb4bef2-173c-433a-91d8-65b1c2466128
+"
+1687305849875,"REPORT RequestId: 5eb4bef2-173c-433a-91d8-65b1c2466128	Duration: 3.63 ms	Billed Duration: 4 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305850126,"START RequestId: b3c49925-2593-49ed-8df8-ffb6d8daa37c Version: $LATEST
+"
+1687305850127,"2023-06-21T00:04:10.127Z	b3c49925-2593-49ed-8df8-ffb6d8daa37c	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305850129,"END RequestId: b3c49925-2593-49ed-8df8-ffb6d8daa37c
+"
+1687305850129,"REPORT RequestId: b3c49925-2593-49ed-8df8-ffb6d8daa37c	Duration: 3.44 ms	Billed Duration: 4 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305850289,"START RequestId: 7f23916d-29d6-457c-8802-efecf8147367 Version: $LATEST
+"
+1687305850291,"2023-06-21T00:04:10.291Z	7f23916d-29d6-457c-8802-efecf8147367	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305850293,"END RequestId: 7f23916d-29d6-457c-8802-efecf8147367
+"
+1687305850293,"REPORT RequestId: 7f23916d-29d6-457c-8802-efecf8147367	Duration: 3.48 ms	Billed Duration: 4 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305850458,"START RequestId: 88b6ac1a-5725-487f-ae8d-3c297c5af6c2 Version: $LATEST
+"
+1687305850460,"2023-06-21T00:04:10.460Z	88b6ac1a-5725-487f-ae8d-3c297c5af6c2	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305850474,"END RequestId: 88b6ac1a-5725-487f-ae8d-3c297c5af6c2
+"
+1687305850474,"REPORT RequestId: 88b6ac1a-5725-487f-ae8d-3c297c5af6c2	Duration: 16.10 ms	Billed Duration: 17 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305850626,"START RequestId: 850bc200-2751-4558-8835-ab38c37c2d33 Version: $LATEST
+"
+1687305850628,"2023-06-21T00:04:10.628Z	850bc200-2751-4558-8835-ab38c37c2d33	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305850634,"END RequestId: 850bc200-2751-4558-8835-ab38c37c2d33
+"
+1687305850634,"REPORT RequestId: 850bc200-2751-4558-8835-ab38c37c2d33	Duration: 7.09 ms	Billed Duration: 8 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305850864,"START RequestId: 7b71d882-ab51-4b78-836c-52477475fa80 Version: $LATEST
+"
+1687305850865,"2023-06-21T00:04:10.865Z	7b71d882-ab51-4b78-836c-52477475fa80	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305850867,"END RequestId: 7b71d882-ab51-4b78-836c-52477475fa80
+"
+1687305850867,"REPORT RequestId: 7b71d882-ab51-4b78-836c-52477475fa80	Duration: 3.37 ms	Billed Duration: 4 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305851037,"START RequestId: 0f3a9317-9d14-4426-9d97-babfd19beaf2 Version: $LATEST
+"
+1687305851038,"2023-06-21T00:04:11.038Z	0f3a9317-9d14-4426-9d97-babfd19beaf2	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305851054,"END RequestId: 0f3a9317-9d14-4426-9d97-babfd19beaf2
+"
+1687305851054,"REPORT RequestId: 0f3a9317-9d14-4426-9d97-babfd19beaf2	Duration: 17.33 ms	Billed Duration: 18 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305851260,"START RequestId: 52036434-14bb-4ee4-81e5-86eec6b19fda Version: $LATEST
+"
+1687305851261,"2023-06-21T00:04:11.261Z	52036434-14bb-4ee4-81e5-86eec6b19fda	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305851264,"END RequestId: 52036434-14bb-4ee4-81e5-86eec6b19fda
+"
+1687305851264,"REPORT RequestId: 52036434-14bb-4ee4-81e5-86eec6b19fda	Duration: 3.84 ms	Billed Duration: 4 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305851425,"START RequestId: 4b1378f8-847c-479b-af60-1f1f60fa91a1 Version: $LATEST
+"
+1687305851426,"2023-06-21T00:04:11.426Z	4b1378f8-847c-479b-af60-1f1f60fa91a1	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305851428,"END RequestId: 4b1378f8-847c-479b-af60-1f1f60fa91a1
+"
+1687305851428,"REPORT RequestId: 4b1378f8-847c-479b-af60-1f1f60fa91a1	Duration: 3.36 ms	Billed Duration: 4 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305851616,"START RequestId: cff2b936-d6e9-4e6c-9f3b-e914b599b6e9 Version: $LATEST
+"
+1687305851618,"2023-06-21T00:04:11.618Z	cff2b936-d6e9-4e6c-9f3b-e914b599b6e9	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305851619,"END RequestId: cff2b936-d6e9-4e6c-9f3b-e914b599b6e9
+"
+1687305851619,"REPORT RequestId: cff2b936-d6e9-4e6c-9f3b-e914b599b6e9	Duration: 3.24 ms	Billed Duration: 4 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305851880,"START RequestId: d462bc63-faae-44ce-b85d-d57632e6bd6d Version: $LATEST
+"
+1687305851882,"2023-06-21T00:04:11.882Z	d462bc63-faae-44ce-b85d-d57632e6bd6d	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305851883,"END RequestId: d462bc63-faae-44ce-b85d-d57632e6bd6d
+"
+1687305851883,"REPORT RequestId: d462bc63-faae-44ce-b85d-d57632e6bd6d	Duration: 2.40 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305852057,"START RequestId: 9785fcb0-49b7-48c4-95e7-cc541d586de2 Version: $LATEST
+"
+1687305852058,"2023-06-21T00:04:12.058Z	9785fcb0-49b7-48c4-95e7-cc541d586de2	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305852059,"END RequestId: 9785fcb0-49b7-48c4-95e7-cc541d586de2
+"
+1687305852059,"REPORT RequestId: 9785fcb0-49b7-48c4-95e7-cc541d586de2	Duration: 2.36 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305852243,"START RequestId: 9118fbd9-ac16-44ed-a470-85a2ae2a3b9d Version: $LATEST
+"
+1687305852244,"2023-06-21T00:04:12.244Z	9118fbd9-ac16-44ed-a470-85a2ae2a3b9d	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305852245,"END RequestId: 9118fbd9-ac16-44ed-a470-85a2ae2a3b9d
+"
+1687305852245,"REPORT RequestId: 9118fbd9-ac16-44ed-a470-85a2ae2a3b9d	Duration: 2.80 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305852423,"START RequestId: 9b75f7f5-c1ba-4a7b-9fe8-eb396820febd Version: $LATEST
+"
+1687305852425,"2023-06-21T00:04:12.425Z	9b75f7f5-c1ba-4a7b-9fe8-eb396820febd	INFO	getBalanceMemcached total time taken : 2 milliseconds
+"
+1687305852426,"END RequestId: 9b75f7f5-c1ba-4a7b-9fe8-eb396820febd
+"
+1687305852426,"REPORT RequestId: 9b75f7f5-c1ba-4a7b-9fe8-eb396820febd	Duration: 2.49 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
+1687305852597,"START RequestId: c4534385-b526-4796-86dc-fd5394ecc39e Version: $LATEST
+"
+1687305852599,"2023-06-21T00:04:12.599Z	c4534385-b526-4796-86dc-fd5394ecc39e	INFO	getBalanceMemcached total time taken : 1 milliseconds
+"
+1687305852599,"END RequestId: c4534385-b526-4796-86dc-fd5394ecc39e
+"
+1687305852599,"REPORT RequestId: c4534385-b526-4796-86dc-fd5394ecc39e	Duration: 2.31 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 87 MB	
+"
